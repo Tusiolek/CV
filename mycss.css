@@ -36,13 +36,6 @@ h4 {
 }
 
 
-h4.data {
-	display: block;
-	text-align: center;
-	float: center;
-
-}
-
 div#left {
 	text-align: left;
 	display: inline-block;
@@ -62,7 +55,7 @@ div.strange {
 	border-radius: 10px;
 }
 img {
-	width: 150px;
+	width: 170px;
 	height: 150px;
 	display: inline-block;
 }
@@ -84,6 +77,4 @@ ul {
 
 li {
 	list-style: none;
-	background-color: 
 }
-
