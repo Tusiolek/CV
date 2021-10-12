@@ -78,3 +78,27 @@ ul {
 li {
 	list-style: none;
 }
+
+div#response {
+	font-family: cursive;
+	text-indent: 2em;
+}
+
+div#hi {
+	text-align: left;
+	display: block;
+	font-size: 2em;
+}
+
+div.content{
+	text-align: justify;
+	text-indent: 2em;
+}
+
+footer {
+	padding: 30px;
+	margin: 30px;
+	text-align: right;
+	font-family: cursive;
+
+}
